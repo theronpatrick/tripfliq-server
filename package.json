@@ -1,0 +1,9 @@
+{
+ "name": "Tripfliq",
+ "version": "1.0.0",
+ "description": "Travel companion app",
+ "author": "Theron Patrick",
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
